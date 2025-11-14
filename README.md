@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Jonas (27), Software-Developer based in Frankfurt Germany :)
-- 👀 I’m interested in programming, chess and avocados 🥑🥑🥑
+
